@@ -1,6 +1,7 @@
 # (c) @AbirHasan2005
 
 import os
+import pyrogram
 import asyncio
 import traceback
 from binascii import (
